@@ -81,37 +81,31 @@ fraud-detection-project/
 1. Clone this repo:
    ```bash
    git clone https://github.com/hi-riddhi/fraud-detection-project.git
-Install dependencies:
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Add your dataset: Drop Fraud.csv into the project folder.
+4. Run the notebook:
+   ```bash
+   jupyter notebook FraudDetection.ipynb
+5. Make charts:
+   ```bash
+   python generate_charts.py
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Add your dataset: Drop Fraud.csv into the project folder.
+---
 
-Run the notebook:
+## 🌟 Highlights
+- Tackled a real-world imbalanced classification problem.
 
-bash
-Copy
-Edit
-jupyter notebook FraudDetection.ipynb
-Make charts:
+- Built smart ML models (LightGBM, XGBoost) to detect fraud.
 
-bash
-Copy
-Edit
-python generate_charts.py
-🌟 Highlights
-Tackled a real-world imbalanced classification problem.
+- Delivered technical & business reports for different audiences.
+  
+---
+## ✨ About Me
+- Hi, I’m Riddhi! This project was part of my Data Science Internship Portfolio.
 
-Built smart ML models (LightGBM, XGBoost) to detect fraud.
-
-Delivered technical & business reports for different audiences.
-
-✨ About Me
-Hi, I’m Riddhi! This project was part of my Data Science Internship Portfolio.
-
-💻 Skills used: Python, Pandas, Scikit-learn, LightGBM, Data Visualization.
-🌐 GitHub: hi-riddhi
+- 💻 Skills used: Python, Pandas, Scikit-learn, LightGBM, Data Visualization.
+- 🌐 GitHub: hi-riddhi
 
 
