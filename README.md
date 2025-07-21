@@ -71,6 +71,7 @@ fraud-detection-project/
 ├── generate_charts.py # Script to make charts
 ├── charts/ # Saved chart images
 ├── README.md # This file
+└── Fraud.csv # The dataset (not uploaded to GitHub)
 
 
 ---
