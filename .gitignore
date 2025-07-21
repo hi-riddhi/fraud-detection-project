@@ -1,0 +1,7 @@
+.venv/ 
+env/ 
+micromamba/ 
+.ai-navigator/ 
+__pycache__/ 
+*.pyc 
+Fraud.csv 
