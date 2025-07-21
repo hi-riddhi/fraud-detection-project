@@ -96,6 +96,8 @@ fraud-detection-project/
 ---
 
 ## 🌟 Highlights
+
+
 - Tackled a real-world imbalanced classification problem.
 
 - Built smart ML models (LightGBM, XGBoost) to detect fraud.
@@ -105,7 +107,9 @@ fraud-detection-project/
 ---
 
 ## ✨ About Me
-Hi, I’m Riddhi! This project was part of *my Data Science Internship Portfolio*.
+
+
+Hi, I’m Riddhi! This project was part of **my Data Science Internship Portfolio**.
 
 💻 Skills used: Python, Pandas, Scikit-learn, LightGBM, Data Visualization.
 🌐 GitHub: hi-riddhi
