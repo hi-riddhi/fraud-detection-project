@@ -106,6 +106,11 @@ fraud-detection-project/
   
 ---
 
+## 💸 Transaction Amount Distribution
+![Amount Distribution](charts/amount_distribution.png)
+
+---
+
 ## 🍀 Happy Fraud Hunting!
 
 If you spot a bug, submit an issue! If you catch a crook, grab a coffee and celebrate. This repo is open-source — so join the squad and help make the world a little safer (and more fun).
