@@ -64,6 +64,7 @@ Every day, thousands of transactions flow through financial systems – but some
 ---
 
 ## 📂 Folder Structure
+```bash
 fraud-detection-project/
 ├── FraudDetection.ipynb # Full notebook: EDA + modeling
 ├── FraudDetection_Technical.md # Technical report
@@ -71,7 +72,7 @@ fraud-detection-project/
 ├── generate_charts.py # Script to make charts
 ├── charts/ # Saved chart images
 ├── README.md # This file
-└── Fraud.csv # The dataset (not uploaded to GitHub)
+└── Fraud.csv # The dataset 
 
 
 ---
