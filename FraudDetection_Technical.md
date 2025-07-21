@@ -46,6 +46,7 @@ This report details the development of a **fraud detection system** for financia
 - Fraud transactions tend to involve **large amounts (>100,000 units)**.  
 - Merchants (recipients starting with “M”) often lack balance updates.
 
+---
 
 ## 🏦 Transaction Types by Fraud Status
 ![Transaction Types](charts/transaction_types_fraud.png)
