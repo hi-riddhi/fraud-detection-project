@@ -73,7 +73,7 @@ fraud-detection-project/
 ├── charts/ # Saved chart images
 ├── README.md # This file
 └── Fraud.csv # The dataset 
-
+```bash
 
 ---
 
