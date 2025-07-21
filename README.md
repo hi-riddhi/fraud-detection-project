@@ -106,12 +106,19 @@ fraud-detection-project/
   
 ---
 
+## 🍀 Happy Fraud Hunting!
+
+If you spot a bug, submit an issue! If you catch a crook, grab a coffee and celebrate. This repo is open-source — so join the squad and help make the world a little safer (and more fun).
+
+*Made with 💜 and a slightly paranoid mind.*
+
+ ---
+ 
 ## ✨ About Me
 
 
 Hi, I’m Riddhi! This project was part of **my Data Science Internship Portfolio**.
 
 💻 Skills used: Python, Pandas, Scikit-learn, LightGBM, Data Visualization.
-🌐 GitHub: hi-riddhi
 
 ---
