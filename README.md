@@ -64,4 +64,53 @@ Every day, thousands of transactions flow through financial systems – but some
 ---
 
 ## 📂 Folder Structure
+fraud-detection-project/
+├── FraudDetection.ipynb # Full notebook: EDA + modeling
+├── FraudDetection_Technical.md # Technical report
+├── FraudDetection_Business.md # Stakeholder-friendly report
+├── generate_charts.py # Script to make charts
+├── charts/ # Saved chart images
+├── README.md # This file
+
+
+---
+
+## 🚀 Quick Start
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/hi-riddhi/fraud-detection-project.git
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Add your dataset: Drop Fraud.csv into the project folder.
+
+Run the notebook:
+
+bash
+Copy
+Edit
+jupyter notebook FraudDetection.ipynb
+Make charts:
+
+bash
+Copy
+Edit
+python generate_charts.py
+🌟 Highlights
+Tackled a real-world imbalanced classification problem.
+
+Built smart ML models (LightGBM, XGBoost) to detect fraud.
+
+Delivered technical & business reports for different audiences.
+
+✨ About Me
+Hi, I’m Riddhi! This project was part of my Data Science Internship Portfolio.
+
+💻 Skills used: Python, Pandas, Scikit-learn, LightGBM, Data Visualization.
+🌐 GitHub: hi-riddhi
+
 
