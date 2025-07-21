@@ -21,6 +21,11 @@ This analysis identifies key fraud patterns in financial transactions and propos
 | False Positive Rate       | **0.4%**       |
 | Estimated Savings         | **$1.2M/month**|
 
+--- 
+
+## 📊 Fraud vs Non-Fraud Proportion
+![Fraud Proportion](charts/fraud_proportion.png)
+
 ---
 
 ## 🎯 Recommendations
