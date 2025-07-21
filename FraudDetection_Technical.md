@@ -79,7 +79,10 @@ This report details the development of a **fraud detection system** for financia
 4. **balanceDestDiff**
 
 ---
+## 🔥 Correlation Heatmap
+![Correlation Heatmap](charts/correlation_heatmap.png)
 
+---
 ## 📝 Recommendations
 
 ✅ Deploy the LightGBM model in a real-time fraud monitoring system.  
