@@ -122,7 +122,7 @@ If you spot a bug, submit an issue! If you catch a crook, grab a coffee and cele
 ## ✨ About Me
 
 
-Hi, I’m Riddhi! This project was part of **my Data Science Internship Portfolio**.
+Hi, I’m Riddhi! This project was part of *my Data Science Internship Portfolio*.
 
 💻 Skills used: Python, Pandas, Scikit-learn, LightGBM, Data Visualization.
 
